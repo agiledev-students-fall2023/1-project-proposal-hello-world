@@ -27,3 +27,29 @@ Ideally, the website should have the following functions:
 ### Scope
 This website will rely on open source manga reading websites, and MyAnaimeList's ranking. Since we are building from the ground up, I think there is a good amount of work to be done for a group of 4-6 programmers. 
 
+# Project Proposal 2
+
+### Project title
+Self Mental Health Check-in
+
+### What and why?
+"Self Mental Health Check-In" is a digital mental health companion designed to offer real-time support to individuals navigating their emotional and mental wellbeing. With the increasing acknowledgment of mental health issues and the stigma around them slowly diminishing, we feel there’s a need for immediate, intuitive, and personalized tools to assist individuals.
+
+
+### For whom?
+
+Primarily designed for college students or anyone experiencing any degrees of stress.
+
+### How?
+Ideally, the website should have the following functions:
+1. Daily Mood Logging: Users log their daily mood, selecting from options like happy, sad, anxious, etc., and can add voice notes or text.
+2. Resource Links: Based on the logged mood, the app suggests resources, such as a grounding meditation for anxiety.
+3. Support Circle:  Users add trusted contacts to share moods and daily activities.
+4. Professional Directory: A searchable database of therapists and helplines, with booking and telehealth options.
+5. Crisis Mode: For moments of extreme distress (e.g. a ), a prominently displayed crisis mode can be activated, connecting users immediately to helplines or sending alerts to the support circle.
+6. Journals: A private space for users to pen down their thoughts or experiences.
+7. Playlists: Curated playlists of calming music, nature sounds, or guided meditations.
+
+
+### Scope
+As there are multiple features to implement while each feature is not that complicated, I would say that it is a reasonable amount of wrok for a group of 4-6 people to complete in one semester.
