@@ -53,3 +53,30 @@ Ideally, the website should have the following functions:
 
 ### Scope
 As there are multiple features to implement while each feature is not that complicated, I would say that it is a reasonable amount of wrok for a group of 4-6 people to complete in one semester.
+
+# Project Proposal 3
+
+### Project title
+Route Discoverer
+
+### What and why?
+Route Discover is a web application designed to help individuals discover various types of trails outside their homes. Whether that be going from restaurant to restaurant or taking a hike. The App will allow the user to customize their experience, to discover new routes to explore, and share their finding with others, facilitating connections and the spirit of adventure. 
+
+
+### For whom?
+
+Designed for people who want to go out and discover new things to do. 
+
+### How?
+Ideally, the website should have the following functions:
+1. A short list to gauge the user's interests (including a preset of options) 
+2. Discover new routes: Main feature of the App, using something like google maps api to generate routes will be a good start
+3. Record and share your routes with other people on the platform 
+4. Real-time tracking to make sure you are going the right way (updates on the events going on in the nearby area) 
+5. Routes are saved and user can provide a rating of the route after they are done 
+6. any transit information included (car, bike, walk, etc)
+7. For hikes or bike rides also keep track of information on your progress (average speed, mph, etc)
+
+
+### Scope
+There are multiple parts of the app but the most important part is the generation of new routes. It's quite a bit to implement and might require more than one platforms (or use a cross-platform tool like flutter/dart)
