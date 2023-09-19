@@ -80,3 +80,40 @@ Ideally, the website should have the following functions:
 
 ### Scope
 There are multiple parts of the app but the most important part is the generation of new routes. It's quite a bit to implement and might require more than one platforms (or use a cross-platform tool like flutter/dart)
+
+# Project Proposal 4
+
+### Project title
+
+StuTracker
+
+### What and why?
+
+This is a centralized app that incorporates multiple tools for teachers, 
+parents, and students to monitor and track academic progress comprehensively. In the increasingly digital world of education, having a centralized 
+platform for monitoring student performance and engagement is crucial. This system is important because it can improve educational outcomes, 
+enhance communication between teachers, parents, and students, and provide valuable insights into student development.
+
+### For whom?
+
+StuTracker is primarly designed for K-12 educational institutions, including public and private schools. The primary users include teachers, parents, and students.
+
+### How?
+
+StuTracker will offer several features. The functionality of StuTracker will be based off of these different features. These include:
+
+Student Profiles: Each student will have a profile with their personal information, attendance history, and academic records.
+
+Grading System: Teachers can input and update grades for assignments, quizzes, and exams. The system will calculate cumulative grades and provide graphical representations of student performance.
+
+Attendance Tracking: Teachers can take attendance in real-time, and parents can access attendance records for their children.
+
+Communication Hub: An integrated messaging system for communication between teachers, parents, and students. This system will also send automated notifications about important events, grades, and attendance. Think of it like Discord or like Microsoft Teams.
+
+Progress Reports: Generate detailed progress reports that provide insights into a student's academic journey, including strengths, weaknesses, and areas for improvement.
+
+Goal Setting: Students and teachers can collaboratively set academic and behavioral goals, with progress tracked over time.
+
+### Scope
+
+The proposed project is suitable for a group of approximately 4 - 6 programmers to complete in one semester. The base of the project goes around the main website, and then adding the separate features. If all features are too difficult to fit within a semester, we can cut down the amount of features in the website or modify it (simplify).
